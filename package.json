@@ -1,0 +1,16 @@
+{
+  "name": "jf-dotcom",
+  "version": "0.1.0",
+  "description": "Main website for JordanFjellman.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjellyman/jf-dotcom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjellyman/jf-dotcom/issues"
+  },
+  "homepage": "https://github.com/fjellyman/jf-dotcom#readme"
+}
